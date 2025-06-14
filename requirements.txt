@@ -8,3 +8,10 @@ pandas
 numpy
 scikit-learn
 judgy
+rank-bm25
+tqdm
+pydantic
+typing-extensions
+matplotlib
+seaborn
+plotly
